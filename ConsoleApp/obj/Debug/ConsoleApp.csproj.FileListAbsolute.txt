@@ -1,0 +1,7 @@
+C:\Users\CrisPa\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\CrisPa\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\CrisPa\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\CrisPa\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\CrisPa\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\CrisPa\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\CrisPa\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
